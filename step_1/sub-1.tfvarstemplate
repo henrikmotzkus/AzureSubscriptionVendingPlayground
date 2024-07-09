@@ -1,0 +1,5 @@
+costcenter = ""
+subscription_management_group_id = "BigBudget"
+billing_account_name = ""
+enrollment_account_name = ""
+subscription_workload = "Prod"
